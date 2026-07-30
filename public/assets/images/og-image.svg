@@ -1,0 +1,36 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background: Catppuccin Mocha Base -->
+  <rect width="1200" height="630" fill="#1e1e2e"/>
+
+  <!-- Logo (centered, scaled up) -->
+  <g transform="translate(530, 120) scale(1.4)">
+    <circle cx="50" cy="50" r="50" fill="#2185D0"/>
+    <path d="M88 52 C85 8, 15 8, 12 44 C30 29, 70 35, 88 52 Z" fill="white"/>
+    <path d="M12 48 C15 92, 85 92, 88 56 C70 71, 30 65, 12 48 Z" fill="white"/>
+    <path d="M86 52 C70 38, 30 38, 14 48 C30 62, 70 62, 86 52 Z" fill="white"/>
+  </g>
+
+  <!-- Brand name -->
+  <text x="600" y="340" text-anchor="middle" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="72" font-weight="600" fill="#cdd6f4">zivue</text>
+
+  <!-- Tagline -->
+  <text x="600" y="400" text-anchor="middle" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="28" font-weight="400" fill="#a6adc8">building tools for humans</text>
+
+  <!-- Product pills -->
+  <g transform="translate(260, 450)">
+    <!-- diraigent -->
+    <rect x="0" y="0" width="200" height="40" rx="20" fill="#313244"/>
+    <text x="100" y="26" text-anchor="middle" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#89b4fa">diraigent</text>
+
+    <!-- stareto -->
+    <rect x="230" y="0" width="200" height="40" rx="20" fill="#313244"/>
+    <text x="330" y="26" text-anchor="middle" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#a6e3a1">stareto</text>
+
+    <!-- health -->
+    <rect x="460" y="0" width="200" height="40" rx="20" fill="#313244"/>
+    <text x="560" y="26" text-anchor="middle" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#f38ba8">health</text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="600" y="550" text-anchor="middle" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="18" font-weight="400" fill="#6c7086">privacy-first &#xB7; self-hosted &#xB7; open-source</text>
+</svg>
