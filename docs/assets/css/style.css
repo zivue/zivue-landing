@@ -297,7 +297,7 @@ body {
 }
 
 .footer-copy {
-  color: var(--ctp-surface2);
+  color: var(--ctp-subtext0);
   font-size: 0.8rem;
 }
 
