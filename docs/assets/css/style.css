@@ -287,13 +287,19 @@ body {
 }
 
 .footer-contact a {
-  color: var(--ctp-overlay1);
-  text-decoration: none;
+  color: var(--ctp-blue);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
   transition: color 0.2s;
 }
 
 .footer-contact a:hover {
   color: var(--ctp-text);
+}
+
+.footer-contact a:focus-visible {
+  outline: 2px solid var(--ctp-blue);
+  outline-offset: 3px;
 }
 
 .footer-copy {
